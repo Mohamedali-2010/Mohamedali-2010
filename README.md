@@ -5,9 +5,14 @@
 
 <h1>MOHAMED ALI</h1>
 
-<h3>Software Engineer | Passionate about Building Scalable Solutions</h3>
+<h3>Software Engineer | Instructor | Creative Problem Solver</h3>
 
-<p>I am a software engineer with experience in web and mobile development, focusing on delivering clean and efficient code. I am always eager to learn new technologies and contribute to innovative projects.</p>
+<p>
+Welcome to my GitHub profile! I’m Mohamed Ali, a software engineer with a passion for creating smart, scalable solutions.  
+From crafting web and mobile applications to sharing knowledge through programming courses, I’m dedicated to continuous learning and growth.  
+💻 I specialize in Python, C++, JavaScript, CSS, Dart, Flutter, React, and more.  
+🚀 Let’s build efficient systems, solve real-world challenges, and grow the tech community together!
+</p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MohamedAliSoftware&style=flat&color=orange&label=PROFILE+VIEWS)
 
@@ -35,8 +40,15 @@ class AboutMe {
     "Languages": { "Python", "C++", "JavaScript", "CSS", "Dart", "SQL" },
     "Frameworks": { "Flutter", "React" },
     "Tools": { "Git", "VS Code", "Linux" },
-    "Focus": { "Mobile Apps", "Web Development", "System Design" }
+    "Focus": { "Mobile Apps", "Web Development", "System Design", "Programming Courses" }
   };
 }
 
+<h3>📞 Contact Me</h3>
+<a href="tel:+201144884528"><img src="https://img.shields.io/badge/Phone-01144884528-blue?style=flat&logo=phone&logoColor=white"></a>
+<a href="mailto:mohamedali.engineer@gmail.com"><img src="https://img.shields.io/badge/Email-mohamedali.engineer@gmail.com-red?style=flat&logo=gmail&logoColor=white"></a>
+<a href="https://t.me/mohamedali_software"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/mohamedali-software"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
+<a href="https://github.com/MohamedAliSoftware"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"></a>
 
+<h3>🌐 Useful Links & Learning Resources</h3> <a href="https://mohamed-software-company.netlify.app"> <img src="https://img.shields.io/badge/My%20Website-000000?style=flat&logo=netlify&logoColor=white"> </a> <a href="https://www.w3schools.com/"> <img src="https://img.shields.io/badge/W3Schools-04AA6D?style=flat&logo=w3schools&logoColor=white"> </a> <a href="https://academy.hsoub.com/"> <img src="https://img.shields.io/badge/Hsoub%20Academy-FF5722?style=flat&logo=bookstack&logoColor=white"> </a> <a href="https://elzero.org/"> <img src="https://img.shields.io/badge/Elzero%20Web%20School-1572B6?style=flat&logo=css3&logoColor=white"> </a> </div> ```
